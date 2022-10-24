@@ -1,4 +1,4 @@
-# qouts
+# Qoutes
 
 A new Flutter project.
 
